@@ -1,0 +1,3 @@
+[submodule "lib/zmapi"]
+	path = lib/zmapi
+	url = ../lib-python.git
